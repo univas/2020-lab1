@@ -1,6 +1,6 @@
 package br.edu.univas.main;
 
-public class StartApp {
+public class Exercicio1 {
 
 	public static void main(String[] args) {
 		float salarioMensal = 2826.66f;
