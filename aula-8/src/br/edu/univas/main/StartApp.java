@@ -7,7 +7,7 @@ public class StartApp {
 	public static void main(String[] args) {
 		//vocês façam um loop de repetição para imprimir a tabuada do 2
 		//alterar o programa para fazer a leitura de qual numero o usuario quer ver a tabuada
-		//altarar o programa para ler um numero entre 1 (inclusive) e 15 (inclusive)
+		//alterar o programa para ler um numero entre 1 (inclusive) e 15 (inclusive)
 		
 		Scanner leitura = new Scanner(System.in);
 		
